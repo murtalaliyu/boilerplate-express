@@ -1,0 +1,11 @@
+{
+  "name": "Murtala Aliyu",
+  "age": 26,
+  "date_of_birth": "1995-08-14T18:25:43.511Z",
+  "is_male": true,
+  "hobbies": ["soccer", "travelling", "video games"],
+  "misc": {
+    "location": "Washington DC",
+    "contact": "murtala@test.com"
+  }
+}
